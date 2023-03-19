@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="granted_permission_writeExternalStorage_R1">Permission granted!! Thank you!!\n\(ContextCompat.checkSelfPermission\)</string>
+    <string name="granted_permission_writeExternalStorage_R2">Permission granted!! Thank you!!\n\(onRequestPermissionsResult\)</string>
+    <string name="Cannot_be_done">Cannot be done!\n\(onRequestPermissionsResult\)</string>
+    <string name="never_show">We will never show it again!\n\(onRequestPermissionsResult\)</string>
+
+    <string name="please_permit_it">>>This permission is important to save file to the phone!\n>>Please permit it!\n</string>
+
+    <string name="dialog_title">Important permission Required!</string>
+    <string name="no_thanks">NO THANKS</string>
+    <string name="ok">OK</string>
+</resources>
